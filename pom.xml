@@ -12,9 +12,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.yupi</groupId>
-    <artifactId>yuoj-backend</artifactId>
+    <artifactId>springboot-backend</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>yuoj-backend</name>
+    <name>springboot-backend</name>
     <properties>
         <java.version>1.8</java.version>
     </properties>
